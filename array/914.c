@@ -85,7 +85,7 @@ bool check(Kitty* list) {
         int tmp = num & (num - 1);
 
         if (num < 2) {
-            flag = false; 
+            flag = false;
             break;
         }
 

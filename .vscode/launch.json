@@ -15,6 +15,11 @@
             "environment": [],
             "externalConsole": true,
             "MIMode": "lldb"  //MAC下的debug程序
+            // "logging": {
+            //     "trace": true,
+            //     "traceResponse": true,
+            //     "engineLogging": true
+            // }
         }
     ]
 }
